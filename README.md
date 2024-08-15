@@ -1,5 +1,5 @@
 # CodeAlpha_Image-Gallery
-Image Gallery
+<b>Image Gallery<b>
 Welcome to my Image Gallery project! This simple yet elegant gallery allows you to browse through a collection of images with various features.
 
 Features
